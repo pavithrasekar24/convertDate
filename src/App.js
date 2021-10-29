@@ -1,6 +1,5 @@
 import React from 'react';
 import './style.css';
-import { useState } from 'react';
 export default function App() {
   var date = '1st May 2020';
   let handleClick = () => {
